@@ -1,0 +1,21 @@
+Online Ambulance Booking System
+Online Panditjee Booking System
+
+Inventory Management System
+
+FIFO
+LIFO
+
+Establish the problem you have selected is really a problem.
+	- Problem statement
+
+- Submit project synopsis
+	* Title of the project
+	* Introduction and Objective
+	* Name of the guide
+	* Problem statement
+	* Literature Review
+	* Methodology used (Data collection methods)
+	* Hardware/Software Requirement
+	* Conclusion
+	* References

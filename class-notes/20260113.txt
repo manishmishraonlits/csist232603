@@ -1,0 +1,17 @@
+Book Management
+	Book Entry
+	Book Entry Modification
+
+Member/Patron Management
+
+Circulation Management
+
+User Management
+
+OPAC
+
+Front End
+Back End
+
+MDI: Multiple Document Interface
+SDI: Single Document Interface
